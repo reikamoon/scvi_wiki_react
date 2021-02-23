@@ -1,0 +1,856 @@
+[
+  {
+    "name": "Grøh",
+    "title": "Agent in Black",
+    "quote": "Do not hold back; however, I will.",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Kingdom of Denmark-Norway",
+    "birthday": "November 18th",
+    "status": "Unknown",
+    "height": "5'11 (181cm)",
+    "weight": "180lbs (82kg)",
+    "bloodtype": "A",
+
+    "relations":
+    "Family: (Implied to be Deceased)
+    Teacher: Orzal (Deceased)
+    Best Friend: Curtis
+    Close Ally: Conduit
+    ",
+
+    "weapontype": "Twinblade",
+    "weaponname": "Arondight Replica",
+    "fightstyle": "Aval Dual-Swordsmanship",
+    "difficulty": "Beginner",
+
+    "engva": "Xander Mobus",
+    "jpva": "Takahiro Sakurai",
+
+    "debut": "SOULCALIBUR VI"
+
+  },
+
+  {
+    "name": "Azwel",
+    "title": "Leader of Humanity",
+    "quote": "Accept this from me! My LOVE!",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Holy Roman Empire (present-day Germany)",
+    "birthday": "June 6th",
+    "status": "Alive",
+    "height": "6'0 (185cm)",
+    "weight": "143lbs (65kg)",
+    "bloodtype": "AB",
+
+    "relations": "He loves all humans equally",
+
+    "weapontype": "Bipolar Pulse-Enhancement Device",
+    "weaponname": "Palindrome",
+    "fightstyle": "Techniques taken from Martial Philosophy and Theory",
+    "difficulty": "Advanced",
+
+    "engva": "Taliesin Jaffe",
+    "jpva": "Masashi Ebara",
+
+    "debut": "SOULCALIBUR VI"
+
+  },
+
+  {
+    "name": "Mitsurugi Heishiro",
+    "title": "Bodyguard in War",
+    "quote": "Depart this life!",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Bizen, Japan",
+    "birthday": "June 8th",
+    "status": "Alive",
+    "height": "5'6 (173 cm)",
+    "weight": "156lbs (71kg)",
+    "bloodtype": "AB",
+
+    "relations": "Family and brothers (deceased)",
+
+    "weapontype": "Katana",
+    "weaponname": "Shishi-Oh",
+    "fightstyle": "Tenpu-Kosai-Ryu Kai",
+    "difficulty": "Beginner",
+
+    "engva": "Ray Chase",
+    "jpva": "Toshiyuki Morikawa",
+
+    "debut": "SOUL BLADE"
+
+  },
+
+   {
+    "name": "Sophitia Alexandra",
+    "title": "Second Coming of the Oath",
+    "quote": "My resolve...will never falter!",
+    "img": "",
+    "gender": "Female",
+    "birthplace": "Athens, Ottoman Empire (present-day Greece)",
+    "birthday": "March 12th",
+    "status": "Alive",
+    "height": "5'6 (168cm)",
+    "weight": "Will Not Reveal",
+    "bloodtype": "B",
+
+    "relations":
+    "Mother: Nike Alexandra
+    Father: Achelous Alexander
+    Younger Sister: Cassandra Alexandra
+    Younger Brother: Lucius Alexander
+    Husband: Rothion ",
+
+    "weapontype": "Short Sword and Small Shield",
+    "weaponname": "Omega Sword and Elk Shield",
+    "fightstyle": "Athenian Style",
+    "difficulty": "Beginner",
+
+    "engva": "Erica Lindbeck",
+    "jpva": "Chie Nakamura",
+
+    "debut": "SOUL BLADE"
+
+  },
+
+   {
+    "name": "Nightmare",
+    "title": "The Azure Knight",
+    "quote": "No matter how bright the light, some shadows cannot be expelled!",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Unknown",
+    "birthday": "Unknown",
+    "status": "Unknown",
+    "height": "5'6 (172cm)",
+    "weight": "346lbs (156kg)",
+    "bloodtype": "Unknown",
+
+    "relations": 
+    "True Form: Inferno",
+
+    "weapontype": "Two Handed Sword (Zweihänder)",
+    "weaponname": "Soul Edge",
+    "fightstyle": "Memories of Soul Edge",
+    "difficulty": "Intermediate",
+
+
+    "engva": "Kirk Thornton",
+    "jpva": "Nobuyuki Hiyama",
+
+    "debut": "SOULCALIBUR"
+
+  },
+
+   {
+    "name": "Xianghua Chai",
+    "title": "Traveling Artist",
+    "quote": "Watch over me, mother!",
+    "img": "",
+    "gender": "Female",
+    "birthplace": "Beijing, Ming Empire (present-day China)",
+    "birthday": "April 2nd",
+    "status": "Alive",
+    "height": "4'9 (152cm)",
+    "weight": "92lbs (42kg)",
+    "bloodtype": "B",
+
+    "relations":
+    "Mother: Xiangfei Chai (Deceased)
+    Father: Xiuqiang Kong (Never Met)
+    Elder Sister: Xianglian Chai (Deceased)
+    Traveling Companions: Kilik and Maxi",
+
+    "weapontype": "Jian (Chinese Sword)",
+    "weaponname": "Krita-Yuga (SoulCalibur)",
+    "fightstyle": "Sword Arts Passed from her mother",
+    "difficulty": "Intermediate",
+
+    "engva": "Wendee Lee",
+    "jpva": "Aya Suzaki",
+
+    "debut": "SOULCALIBUR"
+
+  },
+
+     {
+    "name": "Kilik",
+    "title": "Destiny Awakened",
+    "quote": "Om vajra dharma Kilik.",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Unknown, raised in the Ling Sheng Su Temple, Ming Empire (present-day China)",
+    "birthday": "February 9th",
+    "status": "Alive",
+    "height": "5'5 (169cm)",
+    "weight": "138lbs (63kg)",
+    "bloodtype": "A",
+
+    "relations": 
+    "Family: (Unknown)
+    Traveling Companions: Xianghua and Maxi",
+
+    "weapontype": "Staff",
+    "weaponname": "Kali-Yuga",
+    "fightstyle": "Ling Sheng Su Secret Arts of the Rod",
+    "difficulty": "Beginner",
+
+    "engva": "Grant George",
+    "jpva": "Soichiro Hoshi",
+
+    "debut": "SOULCALIBUR"
+
+  },
+
+    {
+    "name": "Isabella Valentine (Ivy)",
+    "title": "Coiling Contempt/Dexter Purpure",
+    "quote": "I will give you a true death, father!",
+    "img": "",
+    "gender": "Female",
+    "birthplace": "London, British Empire (present-day England, United Kingdom)",
+    "birthday": "December 10th",
+    "status": "Alive",
+    "height": "5'10 (179cm)",
+    "weight": "128lbs (58kg)",
+    "bloodtype": "Unknown",
+
+    "relations": 
+    "Father: Cervantes",
+
+    "weapontype": "Snake Blade",
+    "weaponname": "Ivy Blade",
+    "fightstyle": "Unrelated Link",
+    "difficulty": "Advanced",
+
+    "engva": "Lani Minella",
+    "jpva": "Miyuki Sawashiro",
+
+    "debut": "SOULCALIBUR"
+
+  },
+
+    {
+    "name": "Zasalamel",
+    "title": "The Dark Side of Karma",
+    "quote": "Just as it is written.",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Unknown",
+    "birthday": "May 5th",
+    "status": "Alive",
+    "height": "6'0 (183cm)",
+    "weight": "178lbs (81kg)",
+    "bloodtype": "B",
+
+    "relations": "Unknown",
+
+    "weapontype": "Scythe",
+    "weaponname": "Kafziel",
+    "fightstyle": "Self-taught",
+    "difficulty": "Intermediate",
+
+    "engva": "Keith Silverstein",
+    "jpva": "Hiroshi Tsuchida",
+
+    "debut": "SOULCALIBUR III"
+
+  },
+
+    {
+    "name": "Geralt of Rivia (Guest Character)",
+    "title": "The White Wolf",
+    "quote": "Ever fight a witcher? Guess not.",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Unknown, raised in Kaer Morhen",
+    "birthday": "Unknown",
+    "status": "Alive",
+    "height": "Unknown",
+    "weight": "Unknown",
+    "bloodtype": "Unknown",
+
+    "relations": 
+    "Lover: Yennefer
+    Adopted Daughter: Ciri",
+
+    "weapontype": "Long Swords",
+    "weaponname": "Witcher's Steel Sword and Silver Sword",
+    "fightstyle": "School of the Wolf",
+    "difficulty": "Beginner",
+
+    "engva": "Doug Cockle",
+    "jpva": "Kazuhiro Yamaji",
+
+    "debut": "SOULCALIBUR VI"
+
+  },
+
+    {
+    "name": "Siegfried Schtauffen",
+    "title": "A Soul in Purgatory",
+    "quote": "I will not surrender to this nightmare!",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Ober-Getzenberg, Holy Roman Empire (present-day Germany)",
+    "birthday": "February 6th",
+    "status": "Alive",
+    "height": "5'8 (172cm)",
+    "weight": "154lbs (70kg)",
+    "bloodtype": "A",
+
+    "relations": 
+    "Mother: Margaret Schtauffen
+    Father: Frederick Schtauffen (murdered by Siegfried)",
+
+    "weapontype": "Two Handed Sword (Zweihänder)",
+    "weaponname": "Requiem",
+    "fightstyle": "Self-taught",
+    "difficulty": "Intermediate",
+
+    "engva": "Kirk Thornton",
+    "jpva": "Nobuyuki Hiyama",
+
+    "debut": "SOUL BLADE"
+
+  },
+
+  {
+    "name": "Taki",
+    "title": "Fu-ma's Shadow",
+    "quote": "You'll be lost to history.",
+    "img": "",
+    "gender": "Female",
+    "birthplace": "Fū-ma no Sato, Japan",
+    "birthday": "Unknown",
+    "status": "Alive",
+    "height": "5'7 (170cm)",
+    "weight": "117lbs (53kg)",
+    "bloodtype": "A",
+
+    "relations": 
+    "Master: Toki",
+
+    "weapontype": "Dual Kodachi",
+    "weaponname": "Rekki-Maru and Mekki-Maru",
+    "fightstyle": "Musou-Battou-Ryu",
+    "difficulty": "Beginner",
+
+    "engva": "Cynthia Holloway",
+    "jpva": "Nanako Mori",
+
+    "debut": "SOUL BLADE"
+
+  },
+
+
+  {
+    "name": "Yoshimitsu",
+    "title": "The Original Mechanical Ninja",
+    "quote": "Shikisoku Zeku!",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "None",
+    "birthday": "Unknown",
+    "status": "Alive",
+    "height": "5'7 (170cm)",
+    "weight": "125lbs (57kg)",
+    "bloodtype": "Unknown",
+
+    "relations": "All clan members were massacred.",
+
+    "weapontype": "Double Katana",
+    "weaponname": "Manji Sword and Fu-Ma Blade",
+    "fightstyle": "Manji Ninjitsu",
+    "difficulty": "Advanced",
+
+    "engva": "Mitch Urban",
+    "jpva": "Norio Wakamoto",
+
+    "debut": "SOULCALIBUR"
+
+  },
+
+
+  {
+    "name": "Makishi (Maxi)",
+    "title": "Dandy of the Seas",
+    "quote": "I won't lose 'till I have my revenge.",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Shuri, Ryūkyū Kingdom (present-day Okinawa, Japan)",
+    "birthday": "May 1st",
+    "status": "Alive",
+    "height": "5'8 (174cm)",
+    "weight": "167lbs (76kg)",
+    "bloodtype": "O",
+
+    "relations": 
+    "Parents: Deceased
+    Sworn Brother: Kyam (Deceased)
+    Traveling Companions: Xianghua and Kilik",
+
+    "weapontype": "Nunchaku",
+    "weaponname": "Fatibal",
+    "fightstyle": "Shissen Karihadi",
+    "difficulty": "Advanced",
+
+    "engva": "Steve Van Wormer",
+    "jpva": "Shigeo Kiyama",
+
+    "debut": "SOULCALIBUR"
+
+  },
+
+
+  {
+    "name": "Talim",
+    "title": "The Last Priestess of the Winds",
+    "quote": "I dedicate this to the wind!",
+    "img": "",
+    "gender": "Female",
+    "birthplace": "Southeast Asia, Settlements of the Wind (present-day Phillippines)",
+    "birthday": "June 15",
+    "status": "Alive",
+    "height": "4'8 (144cm)",
+    "weight": "86lbs (39kg)",
+    "bloodtype": "Unknown",
+
+    "relations": 
+    "Father: Sanput
+    Mother: Lidi
+    Grandmother and Village Elder: Kalana
+    Cousin: Plata",
+
+    "weapontype": "Dual Tonfa",
+    "weaponname": "Syi Salika and Loka Luha",
+    "fightstyle": "Wind Dance",
+    "difficulty": "Beginner",
+
+    "engva": "Kira Buckland",
+    "jpva": "Yukari Tamura",
+
+    "debut": "SOULCALIBUR II"
+
+  },
+
+
+  {
+    "name": "Voldo",
+    "title": "Hell Guardian",
+    "quote": "Koh!",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Palermo, Kingdom of Naples (present-day Italy)",
+    "birthday": "August 25th",
+    "status": "Alive",
+    "height": "6'0 (183cm)",
+    "weight": "174lbs (79kg)",
+    "bloodtype": "A",
+
+    "relations": 
+    "Master: Vercci",
+
+    "weapontype": "Dual Jamadhar Katars",
+    "weaponname": "Manas and Ayus",
+    "fightstyle": "Self-taught contortionism",
+    "difficulty": "Advanced",
+
+    "engva": "Unknown",
+    "jpva": "Unknown",
+
+    "debut": "SOUL BLADE"
+
+  },
+
+
+  {
+    "name": "Astaroth",
+    "title": "The Demonic Guard/Sinister Sable",
+    "quote": "You insect! Know your place!",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Palgaea Temple, Safavid Empire (present-day Iran)",
+    "birthday": "September 3rd",
+    "status": "Deceased",
+    "height": "7'2 (220cm)",
+    "weight": "403lbs (183kg)",
+    "bloodtype": "None",
+
+    "relations": 
+    "Master: Ares",
+
+    "weapontype": "Giant Axe",
+    "weaponname": "Kulutues",
+    "fightstyle": "Gyulkus",
+    "difficulty": "Intermediate",
+
+    "engva": "Michael McConnohie",
+    "jpva": "Ryūzaburō Ōtomo",
+
+    "debut": "SOULCALIBUR"
+
+  },
+
+
+  {
+    "name": "Seong Mi-na",
+    "title": "Daughter of the Bladed Rod",
+    "quote": "I have no plans to lose!",
+    "img": "",
+    "gender": "Female",
+    "birthplace": "Jirisan, Korea (present-day South Korea)",
+    "birthday": "November 3rd",
+    "status": "Alive",
+    "height": "5'3 (162cm)",
+    "weight": "105lbs (48kg)",
+    "bloodtype": "A",
+
+    "relations": 
+    "Father: Han-myeong
+    Mother: Deceased
+    Younger Brother: Deceased
+    Childhood friend: Hwang Seong-gyeong",
+
+    "weapontype": "Naginata",
+    "weaponname": "Scarlet Thunder",
+    "fightstyle": "Seong-Style Longsword and Staff Techniques",
+    "difficulty": "Beginner",
+
+    "engva": "Erica Mendez",
+    "jpva": "Chinatsu Akasaki",
+
+    "debut": "SOUL BLADE"
+
+  },
+
+
+  {
+    "name": "Tira",
+    "title": "Bird of Death",
+    "quote": "You look like you wanna die!",
+    "img": "",
+    "gender": "Female",
+    "birthplace": "Unknown",
+    "birthday": "Unknown",
+    "status": "Alive",
+    "height": "5'2 (159cm)",
+    "weight": "105lbs (48kg)",
+    "bloodtype": "AB",
+
+    "relations": 
+    "Foster Parents: (Murdered by Tira)",
+
+    "weapontype": "Ring Blade",
+    "weaponname": "Eiserne Drossel",
+    "fightstyle": "Dance of Death",
+    "difficulty": "Intermediate",
+
+    "engva": "Kate Higgins",
+    "jpva": "Masumi Asano",
+
+    "debut": "SOULCALIBUR III"
+
+  },
+
+
+  {
+    "name": "Cervantes de León",
+    "title": "The Shell of a Proud Man",
+    "quote": "Fear the name of the dread captain Cervantes!",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Valencia, Spanish Empire (present-day Spain)",
+    "birthday": "January 1st",
+    "status": "Undead",
+    "height": "6'0 (182cm)",
+    "weight": "196lbs (89kg)",
+    "bloodtype": "None",
+
+    "relations": 
+    "Daughter: Ivy",
+
+    "weapontype": "Longsword and Pistol Sword",
+    "weaponname": "Acheron and Nirvana",
+    "fightstyle": "Memories of Soul Edge",
+    "difficulty": "Intermediate",
+
+    "engva": "Patrick Seitz",
+    "jpva": "Hiroshi Shirokuma",
+
+    "debut": "SOUL BLADE"
+
+  },
+
+
+  {
+    "name": "Raphael Sorel",
+    "title": "Prelude to Madness",
+    "quote": "Do not delude yourself, thou wretched fool!",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Rouen, French Empire (present-day France)",
+    "birthday": "November 27th",
+    "status": "Alive",
+    "height": "5'10 (178cm)",
+    "weight": "159lbs (72kg)",
+    "bloodtype": "A",
+
+    "relations": 
+    "Foster Daughter: Amy",
+
+    "weapontype": "Rapier",
+    "weaponname": "Flambert",
+    "fightstyle": "La Rapière des Sorel",
+    "difficulty": "Intermediate",
+
+    "engva": "Charles Klausemeyer",
+    "jpva": "Yasunori Masutani",
+
+    "debut": "SOULCALIBUR II"
+
+  },
+
+
+  {
+    "name": "YoRHa No.2 Type B (2B, Guest Character)",
+    "title": "Glory to Mankind",
+    "quote": "We will continue to fight!",
+    "img": "",
+    "gender": "Female Model",
+    "birthplace": "The Bunker",
+    "birthday": "January 7th, 11942",
+    "status": "Alive",
+    "height": "5'6 (168cm)",
+    "weight": "326lbs (148kg)",
+    "bloodtype": "None",
+
+    "relations": 
+    "Support Unit: Pod 042",
+
+    "weapontype": "Small Sword and Large Sword",
+    "weaponname": "Virtuous Treaty and Virtuous Contract",
+    "fightstyle": "Automated infantry for machine life form",
+    "difficulty": "Beginner",
+
+    "engva": "Kira Buckland",
+    "jpva": "Yui Ishikawa",
+
+    "debut": "SOULCALIBUR VI"
+
+  },
+
+  {
+    "name": "Amy Sorel",
+    "title": "Winter Rose",
+    "quote": "Hope only brings disappointment.",
+    "img": "",
+    "gender": "Female",
+    "birthplace": "Rouen, French Empire (present-day France)",
+    "birthday": "Unknown (Met Raphael on October 22nd)",
+    "status": "Alive",
+    "height": "4'5 (140cm)",
+    "weight": "70lbs (36kg)",
+    "bloodtype": "Unknown",
+
+    "relations": 
+    "Foster Father: Raphael",
+
+    "weapontype": "Rapier",
+    "weaponname": "Albion",
+    "fightstyle": "Modified la Rapière des Sorel and Natural Intuition",
+    "difficulty": "Intermediate",
+
+    "engva": "Heather Hogan",
+    "jpva": "Hitomi Nabatame",
+
+    "debut": "SOULCALIBUR III"
+
+  },
+
+  {
+    "name": "Cassandra Alexandra",
+    "title": "Warring Maiden",
+    "quote": "I'll show you the price of integrity!",
+    "img": "",
+    "gender": "Female",
+    "birthplace": "Athens, Ottoman Empire (present-day Greece)",
+    "birthday": "July 20th",
+    "status": "Alive",
+    "height": "5'5 (165cm)",
+    "weight": "Claims to have lost weight recently",
+    "bloodtype": "B",
+
+    "relations": 
+    "Father: Achelous Alexander
+    Mother: Nike Alexandra
+    Elder Sister: Sophitia Alexandra
+    Younger Brother: Lucius Alexander
+    Brother-in-Law: Rothion",
+
+    "weapontype": "Short Sword and Small Shield",
+    "weaponname": "Omega Sword and Owl Shield",
+    "fightstyle": "Improvised Athenian Style",
+    "difficulty": "Beginner",
+
+    "engva": "Heather Halley",
+    "jpva": "Reiko Takagi",
+
+    "debut": "SOULCALIBUR II"
+
+  },
+
+  {
+    "name": "Hildegard von Krone (Hilde)",
+    "title": "Defender of the Kingdom",
+    "quote": "I march to battle. Clear my path!",
+    "img": "",
+    "gender": "Female",
+    "birthplace": "Stolzstadt, Wolfkrone Kingdom",
+    "birthday": "August 13th",
+    "status": "Alive",
+    "height": "5'1 (158cm)",
+    "weight": "110lbs (50kg)",
+    "bloodtype": "AB",
+
+    "relations": 
+    "Father: King George von Krone
+    Mother: Dietrinde (Deceased)
+    Elder Brother: Alfred (Deceased)
+    Fiance: Wilhelm",
+
+    "weapontype": "Short Sword and Spear",
+    "weaponname": "Glänzende Nova and Frischer Himmel",
+    "fightstyle": "Gro Erbschaft",
+    "difficulty": "Intermediate",
+
+    "engva": "Julie Ann Taylor",
+    "jpva": "Yūko Kaida",
+
+    "debut": "SOULCALIBUR IV"
+
+  },
+
+  {
+    "name": "Haohmaru (Guest Character)",
+    "title": "Ronin Vagabond",
+    "quote": "I'll show you true swordsmanship!",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Jōkamachi, Musashi Province, Japan",
+    "birthday": "September 5th, 1763",
+    "status": "Alive",
+    "height": "5'7 (173cm)",
+    "weight": "141lbs (64kg)",
+    "bloodtype": "A",
+
+    "relations": 
+    "Lover: Oshizu",
+
+    "weapontype": "Katana and Sake Jug",
+    "weaponname": "Fugudoku",
+    "fightstyle": "Self-Taught",
+    "difficulty": "Beginner",
+
+    "engva": "Unknown",
+    "jpva": "Daiki Nakamura",
+
+    "debut": "SOULCALIBUR VI"
+
+  },
+
+  {
+    "name": "Setsuka",
+    "title": "Drifting Snow Blossom",
+    "quote": "You reap what you sow, and your seeds were weak.",
+    "img": "",
+    "gender": "Female",
+    "birthplace": "Offshore of Japan",
+    "birthday": "Unknown",
+    "status": "Alive",
+    "height": "5'5 (167cm)",
+    "weight": "112lbs (51kg)",
+    "bloodtype": "A",
+
+    "relations": 
+    "Master/Adopted Father: Shugen Kokonoe",
+
+    "weapontype": "Iaitō hidden in an oilpaper parasol",
+    "weaponname": "Ugetsu Kageuchi",
+    "fightstyle": "Shinden Tsushima-Ryu Battōjyutsu",
+    "difficulty": "Advanced",
+
+    "engva": "Tara Platt",
+    "jpva": "Yō Taichi",
+
+    "debut": "SOULCALIBUR III"
+
+  },
+
+    {
+    "name": "Hwang Seong-gyeong",
+    "title": "Secret Royal Blademaster",
+    "quote": "I shall vanquish the evils of the ages!",
+    "img": "",
+    "gender": "Male",
+    "birthplace": "Jirisan, Joseon Dynasty Korea (present-day South Korea)",
+    "birthday": "August 8th",
+    "status": "Alive",
+    "height": "5'9 (176cm)",
+    "weight": "174lbs(79kg)",
+    "bloodtype": "AB",
+
+    "relations": 
+    "Master: Han-myeong
+    Parents: (Deceased)
+    Childhood Friend: Seong Mi-na",
+
+    "weapontype": "Podao",
+    "weaponname": "Dark Thunder",
+    "fightstyle": "Hwang Style Longsword and Six Heavenly Arts",
+    "difficulty": "Beginner",
+
+    "engva": "SungWon Cho",
+    "jpva": "Subaru Kimura",
+
+    "debut": "SOUL BLADE"
+
+  },
+
+    {
+    "name": "",
+    "title": "",
+    "quote": "",
+    "img": "",
+    "gender": "",
+    "birthplace": "",
+    "birthday": "",
+    "status": "",
+    "height": "",
+    "weight": "",
+    "bloodtype": "",
+
+    "relations": "",
+
+    "weapontype": "",
+    "weaponname": "",
+    "fightstyle": "",
+    "difficulty": "",
+
+    "engva": "",
+    "jpva": "",
+
+    "debut": ""
+
+  }
+
+
+
+
+ 
+
+]
