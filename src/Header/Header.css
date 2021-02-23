@@ -1,0 +1,13 @@
+/*  src/Header.css  */
+.Header {
+    font-family: 'Shippori Mincho', serif;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 1em;
+    margin-bottom: 2em;
+    background-color: black;
+    color: #fff;
+}
