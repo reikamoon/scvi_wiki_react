@@ -1,7 +1,7 @@
 import React from 'react';
-import CharaDetails from './CharaDetails'
+import CharaDetails from '../CharaDetails/CharaDetails'
 import './CastList.css';
-import data from './scvi.json';
+import data from '../scvi.json';
 
 function CastList() {
 

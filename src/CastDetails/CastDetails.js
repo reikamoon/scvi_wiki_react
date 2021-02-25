@@ -1,5 +1,5 @@
 import React from 'react'
-import data from './scvi.json'
+import data from '../scvi.json'
 import Table from 'react-bootstrap/Table';
 import './CastDetails.css';
 

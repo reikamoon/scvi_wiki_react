@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import Header from './Header/Header';
-import CastList from './CastList';
-import Footer from './Footer/Footer';
+import Header from '../Header/Header';
+import CastList from '../CastList/CastList';
+import Footer from '../Footer/Footer';
 import { HashRouter as Router, Route } from 'react-router-dom';
-import CastDetails from './CastDetails';
-import ScrollToTopBtn from "./ScrolltoTop";
+import CastDetails from '../CastDetails/CastDetails';
+import ScrollToTopBtn from "../ScrolltoTop/ScrolltoTop";
 
 
 function App() {

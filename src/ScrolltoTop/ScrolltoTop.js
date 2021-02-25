@@ -30,8 +30,8 @@ export default function ScrollToTop() {
       {isVisible && (
         <div onClick={scrollToTop}>
           <img
-            src="https://i.postimg.cc/44Ytsk8Z/top-arrow-emoj.png"
-            alt="Go to top"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Eo_circle_red_arrow-up.svg/480px-Eo_circle_red_arrow-up.svg.png"
+             width="100" height="100" alt="Go to Top"
           />
         </div>
       )}

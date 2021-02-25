@@ -1,6 +1,5 @@
 import React from 'react'
-import logo from './logo.svg'
-import data from './scvi.json'
+import data from '../scvi.json'
 import { Link } from 'react-router-dom'
 
 function CharaDetails(props) {
