@@ -1,4 +1,25 @@
-# Getting Started with Create React App
+# SOULCALIBUR VI CHARACTER COMPENDIUM
+2/24/2020
+by reikamoon :ribbon:
+
+## Welcome to the Stage of History :crossed_swords:
+A character compendium for the fighting game: <b>SOULCALIBUR VI</b>. Includes basic information, story chronicle portraits, official art, reveal trailers.
+* Added a random character button.
+
+## Tools :hammer:
+<li>Create React App</li>
+<li>React Bootstrap</li>
+
+## Image(s) Used :paintbrush:
+Portraits & Official Art: [SoulCalibur Wiki](https://soulcalibur.fandom.com/wiki/Soulcalibur_Wiki)<br>
+
+
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
