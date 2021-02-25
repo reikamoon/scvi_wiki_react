@@ -1,6 +1,7 @@
 import React from 'react'
 import './Header.css';
 import { NavLink } from 'react-router-dom'
+import RandomSpace from '../RandomSpace/RandomSpace'
 
 function Header() {
   return (
@@ -14,6 +15,8 @@ function Header() {
         activeClassName="nav-link-active"
         exact
         to="/">List</NavLink>
+
+          <RandomSpace />
 
       </header>
     </div>
