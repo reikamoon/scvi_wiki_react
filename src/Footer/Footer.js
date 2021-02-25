@@ -6,7 +6,7 @@ function Footer() {
     const year = date.getFullYear();
     return (
         <div className="footer">
-            <h4>Anjelica Ambrosio ©{year} </h4>
+            <h4>reikamoon ©{year} </h4>
         </div>
     )
 }

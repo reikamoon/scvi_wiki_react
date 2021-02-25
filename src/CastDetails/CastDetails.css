@@ -6,7 +6,7 @@ body {
 }
 
 .Portrait {
-   transform: translate(-500px, 20px); 
+   transform: translate(-480px, 20px); 
    overflow: hidden;
 }
 
@@ -14,7 +14,7 @@ body {
     font-family: 'Shippori Mincho', serif;
     font-size: 30px;
     width: 70%;
-    transform: translate(370px, -750px);
+    transform: translate(430px, -750px);
     color: white;
     overflow: hidden;
 }
@@ -23,13 +23,13 @@ body {
     font-family: 'Shippori Mincho', serif;
     width: 50%;
     font-size: 16px;
-    transform: translate(520px, -800px);
+    transform: translate(580px, -800px);
     overflow: hidden;
     color: white;
 }
 
 .charatable {
-    transform: translate(520px, -800px);
+    transform: translate(580px, -800px);
     overflow: scroll;
 }
 
