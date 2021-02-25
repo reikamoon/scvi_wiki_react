@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Shippori Mincho', serif;
+
+}
+
+.Portrait {
+   transform: translate(-500px, 20px); 
+   overflow: hidden;
+}
+
+.Name {
+    font-family: 'Shippori Mincho', serif;
+    font-size: 30px;
+    width: 70%;
+    transform: translate(370px, -750px);
+    color: white;
+    overflow: hidden;
+}
+
+.Bio {
+    font-family: 'Shippori Mincho', serif;
+    width: 50%;
+    font-size: 16px;
+    transform: translate(520px, -800px);
+    overflow: hidden;
+    color: white;
+}
+
+.charatable {
+    transform: translate(520px, -800px);
+    overflow: scroll;
+}
+
+.table {
+    border: 1px solid white;
+    color: white;
+    width: 50%;
+    font-family: 'Shippori Mincho', serif;
+    font-size: 24px;
+    overflow: scroll;
+}
+
+.thead {
+    border: 2px solid black;
+}
+
+.video {
+    transform: translate(1px, -600px);
+}
+

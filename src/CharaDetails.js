@@ -1,18 +1,17 @@
 import React from 'react'
 import logo from './logo.svg'
 import data from './scvi.json'
+import { Link } from 'react-router-dom'
 
 function CharaDetails(props) {
-  const { name, img, title, weapontype, difficulty, } = props
+  const { name, img, title, weapontype, difficulty, quote, id } = props
    return (
     <div className="CharaDetails">
-      <img 
-        src={`${process.env.PUBLIC_URL}images/${img}`} 
-        width="320" 
-        height="390" 
-        alt="Hello" 
-      />
+    <Link to={`/details/${id}`}>
+    <img src={`${process.env.PUBLIC_URL}images/${img}`} width="350" height="400" alt="Image" />
+    </Link> 
       <h1>{name}, {title}</h1>
+      <div>"{quote}"</div>
       <h3>Weapon: {weapontype}</h3>
       <h3>Difficulty: {difficulty}</h3>
     </div>

@@ -5,14 +5,17 @@ import data from './scvi.json';
 
 function CastList() {
 
-  const spaces = data.map((obj) => {
+  const spaces = data.map(( { name, title, img, quote, weapontype, difficulty, key }, i) => {
     return (
       <CharaDetails
-        name={obj.name}
-        title={obj.title}
-        img={obj.img}
-        weapontype={obj.weapontype}
-        difficulty={obj.difficulty}
+        id={i}
+        key={key} // The title could be a key
+        name={name}
+        title={title}
+        img={img}
+        quote={quote}
+        weapontype={weapontype}
+        difficulty={difficulty}
       />
     )
   })

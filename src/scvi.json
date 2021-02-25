@@ -1,9 +1,11 @@
 [
   {
+    "key": "Grøh",
     "name": "Grøh",
-    "title": "Agent in Black",
+    "title": "The Agent in Black",
     "quote": "Do not hold back; however, I will.",
     "img": "Groh.png",
+    "portrait": "PORTRAITS/Groh.png",
     "gender": "Male",
     "birthplace": "Kingdom of Denmark-Norway",
     "birthday": "November 18th",
@@ -20,15 +22,18 @@
     "engva": "Xander Mobus",
     "jpva": "Takahiro Sakurai",
 
-    "debut": "SOULCALIBUR VI"
+    "debut": "SOULCALIBUR VI",
+    "video": "https://www.youtube.com/embed/e0da05lQWtg"
 
   },
 
   {
+    "key": "Azwel",
     "name": "Azwel",
     "title": "Leader of Humanity",
     "quote": "Accept this from me! My LOVE!",
     "img": "Azwel.png",
+    "portrait": "PORTRAITS/Azwel.png",
     "gender": "Male",
     "birthplace": "Holy Roman Empire (present-day Germany)",
     "birthday": "June 6th",
@@ -45,15 +50,18 @@
     "engva": "Taliesin Jaffe",
     "jpva": "Masashi Ebara",
 
-    "debut": "SOULCALIBUR VI"
+    "debut": "SOULCALIBUR VI",
+    "video": "https://www.youtube.com/embed/e1iZPsdQyII"
 
   },
 
   {
+    "key": "Mitsurugi",
     "name": "Mitsurugi Heishiro",
     "title": "Bodyguard in War",
     "quote": "Depart this life!",
     "img": "Mitsurugi.png",
+    "portrait": "PORTRAITS/Mitsurugi.png",
     "gender": "Male",
     "birthplace": "Bizen, Japan",
     "birthday": "June 8th",
@@ -70,15 +78,18 @@
     "engva": "Ray Chase",
     "jpva": "Toshiyuki Morikawa",
 
-    "debut": "SOUL BLADE"
+    "debut": "SOUL BLADE",
+    "video": "https://www.youtube.com/embed/u0lv_igNg_M"
 
   },
 
    {
+    "key": "Sophitia",
     "name": "Sophitia Alexandra",
     "title": "Second Coming of the Oath",
     "quote": "My resolve...will never falter!",
     "img": "Sophitia.png",
+    "portrait": "PORTRAITS/Sophitia.png",
     "gender": "Female",
     "birthplace": "Athens, Ottoman Empire (present-day Greece)",
     "birthday": "March 12th",
@@ -95,15 +106,18 @@
     "engva": "Erica Lindbeck",
     "jpva": "Chie Nakamura",
 
-    "debut": "SOUL BLADE"
+    "debut": "SOUL BLADE",
+    "video": "https://www.youtube.com/embed/ziWNOtY28ew"
 
   },
 
    {
+    "key": "Nightmare",
     "name": "Nightmare",
     "title": "The Azure Knight",
     "quote": "No matter how bright the light, some shadows cannot be expelled!",
     "img": "Nightmare.png",
+    "portrait": "PORTRAITS/Nightmare.png",
     "gender": "Male",
     "birthplace": "Unknown",
     "birthday": "Unknown",
@@ -116,20 +130,24 @@
     "weaponname": "Soul Edge",
     "fightstyle": "Memories of Soul Edge",
     "difficulty": "Intermediate",
+    
 
 
     "engva": "Kirk Thornton",
     "jpva": "Nobuyuki Hiyama",
 
-    "debut": "SOULCALIBUR"
+    "debut": "SOULCALIBUR",
+    "video": "https://www.youtube.com/embed/cpdu0AGpEzw"
 
   },
 
    {
+    "key": "Xianghua",
     "name": "Xianghua Chai",
     "title": "Traveling Artist",
     "quote": "Watch over me, mother!",
     "img": "Xianghua.png",
+    "portrait": "PORTRAITS/Xianghua.png",
     "gender": "Female",
     "birthplace": "Beijing, Ming Empire (present-day China)",
     "birthday": "April 2nd",
@@ -146,15 +164,18 @@
     "engva": "Wendee Lee",
     "jpva": "Aya Suzaki",
 
-    "debut": "SOULCALIBUR"
+    "debut": "SOULCALIBUR",
+    "video": "https://www.youtube.com/embed/e0da05lQWtg"
 
   },
 
      {
+    "key": "Kilik",
     "name": "Kilik",
     "title": "Destiny Awakened",
     "quote": "Om vajra dharma Kilik.",
     "img": "Kilik.png",
+    "portrait": "PORTRAITS/Kilik.png",
     "gender": "Male",
     "birthplace": "Unknown, raised in the Ling Sheng Su Temple, Ming Empire (present-day China)",
     "birthday": "February 9th",
@@ -171,15 +192,18 @@
     "engva": "Grant George",
     "jpva": "Soichiro Hoshi",
 
-    "debut": "SOULCALIBUR"
+    "debut": "SOULCALIBUR",
+    "video": "https://www.youtube.com/embed/e0da05lQWtg"
 
   },
 
     {
+    "key": "Ivy",
     "name": "Isabella Valentine (Ivy)",
     "title": "Coiling Contempt/Dexter Purpure",
     "quote": "I will give you a true death, father!",
     "img": "Ivy.png",
+    "portrait": "PORTRAITS/Ivy.png",
     "gender": "Female",
     "birthplace": "London, British Empire (present-day England, United Kingdom)",
     "birthday": "December 10th",
@@ -196,15 +220,18 @@
     "engva": "Lani Minella",
     "jpva": "Miyuki Sawashiro",
 
-    "debut": "SOULCALIBUR"
+    "debut": "SOULCALIBUR",
+    "video": "https://www.youtube.com/embed/aNi1jjtFdao"
 
   },
 
     {
+    "key": "Zasalamel",
     "name": "Zasalamel",
     "title": "The Dark Side of Karma",
     "quote": "Just as it is written.",
     "img": "Zasalamel.png",
+    "portrait": "PORTRAITS/Zasalamel.png",
     "gender": "Male",
     "birthplace": "Unknown",
     "birthday": "May 5th",
@@ -221,15 +248,18 @@
     "engva": "Keith Silverstein",
     "jpva": "Hiroshi Tsuchida",
 
-    "debut": "SOULCALIBUR III"
+    "debut": "SOULCALIBUR III",
+    "video":"https://www.youtube.com/embed/mzfZm2obBag"
 
   },
 
     {
+    "key": "Geralt",
     "name": "Geralt of Rivia (Guest Character)",
     "title": "The White Wolf",
     "quote": "Ever fight a witcher? Guess not.",
     "img": "Geralt.png",
+    "portrait": "PORTRAITS/Geralt.png",
     "gender": "Male",
     "birthplace": "Unknown, raised in Kaer Morhen",
     "birthday": "Unknown",
@@ -246,15 +276,18 @@
     "engva": "Doug Cockle",
     "jpva": "Kazuhiro Yamaji",
 
-    "debut": "SOULCALIBUR VI"
+    "debut": "SOULCALIBUR VI",
+    "video": "https://www.youtube.com/embed/33EoknxA83A"
 
   },
 
     {
+    "key": "Siegfried",
     "name": "Siegfried Schtauffen",
     "title": "A Soul in Purgatory",
     "quote": "I will not surrender to this nightmare!",
     "img": "Siegfried.png",
+    "portrait": "PORTRAITS/Siegfried.png",
     "gender": "Male",
     "birthplace": "Ober-Getzenberg, Holy Roman Empire (present-day Germany)",
     "birthday": "February 6th",
@@ -271,15 +304,18 @@
     "engva": "Kirk Thornton",
     "jpva": "Nobuyuki Hiyama",
 
-    "debut": "SOUL BLADE"
+    "debut": "SOUL BLADE",
+    "video": "https://www.youtube.com/embed/psSlGyseyZI"
 
   },
 
   {
+    "key": "Taki",
     "name": "Taki",
     "title": "Fu-ma's Shadow",
     "quote": "You'll be lost to history.",
     "img": "Taki.png",
+    "portrait": "PORTRAITS/Taki.png",
     "gender": "Female",
     "birthplace": "Fū-ma no Sato, Japan",
     "birthday": "Unknown",
@@ -296,16 +332,19 @@
     "engva": "Cynthia Holloway",
     "jpva": "Nanako Mori",
 
-    "debut": "SOUL BLADE"
+    "debut": "SOUL BLADE",
+    "video": "https://www.youtube.com/embed/KPA3QTfwBr4"
 
   },
 
 
   {
+    "key": "Yoshimitsu",
     "name": "Yoshimitsu",
     "title": "The Original Mechanical Ninja",
     "quote": "Shikisoku Zeku!",
     "img": "Yoshimitsu.png",
+    "portrait": "PORTRAITS/Yoshimitsu.png",
     "gender": "Male",
     "birthplace": "None",
     "birthday": "Unknown",
@@ -322,16 +361,19 @@
     "engva": "Mitch Urban",
     "jpva": "Norio Wakamoto",
 
-    "debut": "SOULCALIBUR"
+    "debut": "SOULCALIBUR",
+    "video": "https://www.youtube.com/embed/OPECvPBvSFI"
 
   },
 
 
   {
+    "key": "Maxi",
     "name": "Makishi (Maxi)",
     "title": "Dandy of the Seas",
     "quote": "I won't lose 'till I have my revenge.",
     "img": "Maxi.png",
+    "portrait": "PORTRAITS/Maxi.png",
     "gender": "Male",
     "birthplace": "Shuri, Ryūkyū Kingdom (present-day Okinawa, Japan)",
     "birthday": "May 1st",
@@ -348,16 +390,19 @@
     "engva": "Steve Van Wormer",
     "jpva": "Shigeo Kiyama",
 
-    "debut": "SOULCALIBUR"
+    "debut": "SOULCALIBUR",
+    "video": "https://www.youtube.com/embed/RUM-T9VpjL4"
 
   },
 
 
   {
+    "key": "Talim",
     "name": "Talim",
     "title": "The Last Priestess of the Winds",
     "quote": "I dedicate this to the wind!",
     "img": "Talim.png",
+    "portrait": "PORTRAITS/Talim.png",
     "gender": "Female",
     "birthplace": "Southeast Asia, Settlements of the Wind (present-day Phillippines)",
     "birthday": "June 15",
@@ -374,16 +419,19 @@
     "engva": "Kira Buckland",
     "jpva": "Yukari Tamura",
 
-    "debut": "SOULCALIBUR II"
+    "debut": "SOULCALIBUR II",
+    "video": "https://www.youtube.com/embed/FumFHSR2x4c"
 
   },
 
 
   {
+    "key": "Voldo",
     "name": "Voldo",
     "title": "Hell Guardian",
     "quote": "Koh!",
     "img": "Voldo.png",
+    "portrait": "PORTRAITS/Voldo.png",
     "gender": "Male",
     "birthplace": "Palermo, Kingdom of Naples (present-day Italy)",
     "birthday": "August 25th",
@@ -400,16 +448,19 @@
     "engva": "Unknown",
     "jpva": "Unknown",
 
-    "debut": "SOUL BLADE"
+    "debut": "SOUL BLADE",
+    "video": "https://www.youtube.com/embed/zV4GkerHeBE"
 
   },
 
 
   {
+    "key": "Astaroth",
     "name": "Astaroth",
     "title": "The Demonic Guard/Sinister Sable",
     "quote": "You insect! Know your place!",
     "img": "Astaroth.png",
+    "portrait": "PORTRAITS/Astaroth.png",
     "gender": "Male",
     "birthplace": "Palgaea Temple, Safavid Empire (present-day Iran)",
     "birthday": "September 3rd",
@@ -426,16 +477,19 @@
     "engva": "Michael McConnohie",
     "jpva": "Ryūzaburō Ōtomo",
 
-    "debut": "SOULCALIBUR"
+    "debut": "SOULCALIBUR",
+    "video": "https://www.youtube.com/embed/ZFsaehtn-z4"
 
   },
 
 
   {
+    "key": "Mi-na",
     "name": "Seong Mi-na",
     "title": "Daughter of the Bladed Rod",
     "quote": "I have no plans to lose!",
     "img": "Seong-Mi-na.png",
+    "portrait": "PORTRAITS/Seong Mi-na.png",
     "gender": "Female",
     "birthplace": "Jirisan, Korea (present-day South Korea)",
     "birthday": "November 3rd",
@@ -452,16 +506,19 @@
     "engva": "Erica Mendez",
     "jpva": "Chinatsu Akasaki",
 
-    "debut": "SOUL BLADE"
+    "debut": "SOUL BLADE",
+    "video": "https://www.youtube.com/embed/ZFsaehtn-z4?start=57"
 
   },
 
 
   {
+    "key": "Tira",
     "name": "Tira",
     "title": "Bird of Death",
     "quote": "You look like you wanna die!",
     "img": "Tira.png",
+    "portrait": "PORTRAITS/Tira.png",
     "gender": "Female",
     "birthplace": "Unknown",
     "birthday": "Unknown",
@@ -478,16 +535,19 @@
     "engva": "Kate Higgins",
     "jpva": "Masumi Asano",
 
-    "debut": "SOULCALIBUR III"
+    "debut": "SOULCALIBUR III",
+    "video": "https://www.youtube.com/embed/32S4QgGNgls"
 
   },
 
 
   {
+    "key": "Cervantes",
     "name": "Cervantes de León",
     "title": "The Shell of a Proud Man",
     "quote": "Fear the name of the dread captain Cervantes!",
     "img": "Cervantes.png",
+    "portrait": "PORTRAITS/Cervantes.png",
     "gender": "Male",
     "birthplace": "Valencia, Spanish Empire (present-day Spain)",
     "birthday": "January 1st",
@@ -504,16 +564,19 @@
     "engva": "Patrick Seitz",
     "jpva": "Hiroshi Shirokuma",
 
-    "debut": "SOUL BLADE"
+    "debut": "SOUL BLADE",
+    "video": "https://www.youtube.com/embed/IfUM6dXvRk4"
 
   },
 
 
   {
+    "key": "Raphael",
     "name": "Raphael Sorel",
     "title": "Prelude to Madness",
     "quote": "Do not delude yourself, thou wretched fool!",
     "img": "Raphael.png",
+    "portrait": "PORTRAITS/Raphael.png",
     "gender": "Male",
     "birthplace": "Rouen, French Empire (present-day France)",
     "birthday": "November 27th",
@@ -530,16 +593,19 @@
     "engva": "Charles Klausemeyer",
     "jpva": "Yasunori Masutani",
 
-    "debut": "SOULCALIBUR II"
+    "debut": "SOULCALIBUR II",
+    "video": "https://www.youtube.com/embed/FmiFotmUs5w"
 
   },
 
 
   {
+    "key": "2B",
     "name": "YoRHa No.2 Type B (2B, Guest Character)",
     "title": "Glory to Mankind",
     "quote": "We will continue to fight!",
     "img": "2B.png",
+    "portrait": "PORTRAITS/placeholder.png",
     "gender": "Female Model",
     "birthplace": "The Bunker",
     "birthday": "January 7th, 11942",
@@ -556,15 +622,18 @@
     "engva": "Kira Buckland",
     "jpva": "Yui Ishikawa",
 
-    "debut": "SOULCALIBUR VI"
+    "debut": "SOULCALIBUR VI",
+    "video": "https://www.youtube.com/embed/iG12BqJLdp4"
 
   },
 
   {
+    "key": "Amy",
     "name": "Amy Sorel",
     "title": "Winter Rose",
     "quote": "Hope only brings disappointment.",
     "img": "Amy.png",
+    "portrait": "PORTRAITS/Amy.png",
     "gender": "Female",
     "birthplace": "Rouen, French Empire (present-day France)",
     "birthday": "Unknown (Met Raphael on October 22nd)",
@@ -581,15 +650,18 @@
     "engva": "Heather Hogan",
     "jpva": "Hitomi Nabatame",
 
-    "debut": "SOULCALIBUR III"
+    "debut": "SOULCALIBUR III",
+    "video": "https://www.youtube.com/embed/QxPf8BhJNlQ"
 
   },
 
   {
+    "key": "Cassandra",
     "name": "Cassandra Alexandra",
     "title": "Warring Maiden",
     "quote": "I'll show you the price of integrity!",
     "img": "Cassandra.png",
+    "portrait": "PORTRAITS/Cassandra.png",
     "gender": "Female",
     "birthplace": "Athens, Ottoman Empire (present-day Greece)",
     "birthday": "July 20th",
@@ -606,15 +678,18 @@
     "engva": "Heather Halley",
     "jpva": "Reiko Takagi",
 
-    "debut": "SOULCALIBUR II"
+    "debut": "SOULCALIBUR II",
+    "video": "https://www.youtube.com/embed/7sxuT5_C1OY"
 
   },
 
   {
+    "key": "Hilde",
     "name": "Hildegard von Krone (Hilde)",
     "title": "Defender of the Kingdom",
     "quote": "I march to battle. Clear my path!",
     "img": "Hilde.png",
+    "portrait": "PORTRAITS/Hilde.png",
     "gender": "Female",
     "birthplace": "Stolzstadt, Wolfkrone Kingdom",
     "birthday": "August 13th",
@@ -631,15 +706,18 @@
     "engva": "Julie Ann Taylor",
     "jpva": "Yūko Kaida",
 
-    "debut": "SOULCALIBUR IV"
+    "debut": "SOULCALIBUR IV",
+    "video": "https://www.youtube.com/embed/XznU3L3uWD8"
 
   },
 
   {
+    "key": "Haohmaru",
     "name": "Haohmaru (Guest Character)",
     "title": "Ronin Vagabond",
     "quote": "I'll show you true swordsmanship!",
     "img": "Haohmaru.png",
+    "portrait": "PORTRAITS/placeholder.png",
     "gender": "Male",
     "birthplace": "Jōkamachi, Musashi Province, Japan",
     "birthday": "September 5th, 1763",
@@ -656,15 +734,18 @@
     "engva": "Unknown",
     "jpva": "Daiki Nakamura",
 
-    "debut": "SOULCALIBUR VI"
+    "debut": "SOULCALIBUR VI",
+    "video": "https://www.youtube.com/embed/Y6eoPLYr3xA"
 
   },
 
   {
+    "key": "Setsuka",
     "name": "Setsuka",
     "title": "Drifting Snow Blossom",
     "quote": "You reap what you sow, and your seeds were weak.",
     "img": "Setsuka.png",
+    "portrait": "PORTRAITS/Setsuka.png",
     "gender": "Female",
     "birthplace": "Offshore of Japan",
     "birthday": "Unknown",
@@ -681,15 +762,18 @@
     "engva": "Tara Platt",
     "jpva": "Yō Taichi",
 
-    "debut": "SOULCALIBUR III"
+    "debut": "SOULCALIBUR III",
+    "video": "https://www.youtube.com/embed/sy8IQ5RK1Rc"
 
   },
 
     {
+    "key": "Hwang",
     "name": "Hwang Seong-gyeong",
     "title": "Secret Royal Blademaster",
     "quote": "I shall vanquish the evils of the ages!",
     "img": "Hwang.png",
+    "portrait": "PORTRAITS/Hwang.png",
     "gender": "Male",
     "birthplace": "Jirisan, Joseon Dynasty Korea (present-day South Korea)",
     "birthday": "August 8th",
@@ -706,7 +790,8 @@
     "engva": "SungWon Cho",
     "jpva": "Subaru Kimura",
 
-    "debut": "SOUL BLADE"
+    "debut": "SOUL BLADE",
+    "video": "https://www.youtube.com/embed/oC2rIDAJ3vo"
 
   }
 
