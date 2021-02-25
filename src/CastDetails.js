@@ -89,8 +89,6 @@ function CastDetails(props) {
         <iframe width="1500" height="750" src={video} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
-        <a href="#">Top of Page</a>
-
       
       </div>
   )
