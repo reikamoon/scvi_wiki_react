@@ -1,0 +1,9 @@
+.CharaDetails {
+    width: 100%;
+    text-align: center;
+}
+
+.CharaDetails>img {
+    width: 100%;
+    height: auto;
+}

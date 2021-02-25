@@ -3,7 +3,7 @@
     "name": "Grøh",
     "title": "Agent in Black",
     "quote": "Do not hold back; however, I will.",
-    "img": "",
+    "img": "Groh.png",
     "gender": "Male",
     "birthplace": "Kingdom of Denmark-Norway",
     "birthday": "November 18th",
@@ -11,13 +11,6 @@
     "height": "5'11 (181cm)",
     "weight": "180lbs (82kg)",
     "bloodtype": "A",
-
-    "relations":
-    "Family: (Implied to be Deceased)
-    Teacher: Orzal (Deceased)
-    Best Friend: Curtis
-    Close Ally: Conduit
-    ",
 
     "weapontype": "Twinblade",
     "weaponname": "Arondight Replica",
@@ -35,7 +28,7 @@
     "name": "Azwel",
     "title": "Leader of Humanity",
     "quote": "Accept this from me! My LOVE!",
-    "img": "",
+    "img": "Azwel.png",
     "gender": "Male",
     "birthplace": "Holy Roman Empire (present-day Germany)",
     "birthday": "June 6th",
@@ -43,8 +36,6 @@
     "height": "6'0 (185cm)",
     "weight": "143lbs (65kg)",
     "bloodtype": "AB",
-
-    "relations": "He loves all humans equally",
 
     "weapontype": "Bipolar Pulse-Enhancement Device",
     "weaponname": "Palindrome",
@@ -62,7 +53,7 @@
     "name": "Mitsurugi Heishiro",
     "title": "Bodyguard in War",
     "quote": "Depart this life!",
-    "img": "",
+    "img": "Mitsurugi.png",
     "gender": "Male",
     "birthplace": "Bizen, Japan",
     "birthday": "June 8th",
@@ -70,8 +61,6 @@
     "height": "5'6 (173 cm)",
     "weight": "156lbs (71kg)",
     "bloodtype": "AB",
-
-    "relations": "Family and brothers (deceased)",
 
     "weapontype": "Katana",
     "weaponname": "Shishi-Oh",
@@ -89,7 +78,7 @@
     "name": "Sophitia Alexandra",
     "title": "Second Coming of the Oath",
     "quote": "My resolve...will never falter!",
-    "img": "",
+    "img": "Sophitia.png",
     "gender": "Female",
     "birthplace": "Athens, Ottoman Empire (present-day Greece)",
     "birthday": "March 12th",
@@ -97,13 +86,6 @@
     "height": "5'6 (168cm)",
     "weight": "Will Not Reveal",
     "bloodtype": "B",
-
-    "relations":
-    "Mother: Nike Alexandra
-    Father: Achelous Alexander
-    Younger Sister: Cassandra Alexandra
-    Younger Brother: Lucius Alexander
-    Husband: Rothion ",
 
     "weapontype": "Short Sword and Small Shield",
     "weaponname": "Omega Sword and Elk Shield",
@@ -121,7 +103,7 @@
     "name": "Nightmare",
     "title": "The Azure Knight",
     "quote": "No matter how bright the light, some shadows cannot be expelled!",
-    "img": "",
+    "img": "Nightmare.png",
     "gender": "Male",
     "birthplace": "Unknown",
     "birthday": "Unknown",
@@ -129,9 +111,6 @@
     "height": "5'6 (172cm)",
     "weight": "346lbs (156kg)",
     "bloodtype": "Unknown",
-
-    "relations": 
-    "True Form: Inferno",
 
     "weapontype": "Two Handed Sword (Zweihänder)",
     "weaponname": "Soul Edge",
@@ -150,7 +129,7 @@
     "name": "Xianghua Chai",
     "title": "Traveling Artist",
     "quote": "Watch over me, mother!",
-    "img": "",
+    "img": "Xianghua.png",
     "gender": "Female",
     "birthplace": "Beijing, Ming Empire (present-day China)",
     "birthday": "April 2nd",
@@ -158,12 +137,6 @@
     "height": "4'9 (152cm)",
     "weight": "92lbs (42kg)",
     "bloodtype": "B",
-
-    "relations":
-    "Mother: Xiangfei Chai (Deceased)
-    Father: Xiuqiang Kong (Never Met)
-    Elder Sister: Xianglian Chai (Deceased)
-    Traveling Companions: Kilik and Maxi",
 
     "weapontype": "Jian (Chinese Sword)",
     "weaponname": "Krita-Yuga (SoulCalibur)",
@@ -181,7 +154,7 @@
     "name": "Kilik",
     "title": "Destiny Awakened",
     "quote": "Om vajra dharma Kilik.",
-    "img": "",
+    "img": "Kilik.png",
     "gender": "Male",
     "birthplace": "Unknown, raised in the Ling Sheng Su Temple, Ming Empire (present-day China)",
     "birthday": "February 9th",
@@ -189,10 +162,6 @@
     "height": "5'5 (169cm)",
     "weight": "138lbs (63kg)",
     "bloodtype": "A",
-
-    "relations": 
-    "Family: (Unknown)
-    Traveling Companions: Xianghua and Maxi",
 
     "weapontype": "Staff",
     "weaponname": "Kali-Yuga",
@@ -210,7 +179,7 @@
     "name": "Isabella Valentine (Ivy)",
     "title": "Coiling Contempt/Dexter Purpure",
     "quote": "I will give you a true death, father!",
-    "img": "",
+    "img": "Ivy.png",
     "gender": "Female",
     "birthplace": "London, British Empire (present-day England, United Kingdom)",
     "birthday": "December 10th",
@@ -218,9 +187,6 @@
     "height": "5'10 (179cm)",
     "weight": "128lbs (58kg)",
     "bloodtype": "Unknown",
-
-    "relations": 
-    "Father: Cervantes",
 
     "weapontype": "Snake Blade",
     "weaponname": "Ivy Blade",
@@ -238,7 +204,7 @@
     "name": "Zasalamel",
     "title": "The Dark Side of Karma",
     "quote": "Just as it is written.",
-    "img": "",
+    "img": "Zasalamel.png",
     "gender": "Male",
     "birthplace": "Unknown",
     "birthday": "May 5th",
@@ -246,8 +212,6 @@
     "height": "6'0 (183cm)",
     "weight": "178lbs (81kg)",
     "bloodtype": "B",
-
-    "relations": "Unknown",
 
     "weapontype": "Scythe",
     "weaponname": "Kafziel",
@@ -265,7 +229,7 @@
     "name": "Geralt of Rivia (Guest Character)",
     "title": "The White Wolf",
     "quote": "Ever fight a witcher? Guess not.",
-    "img": "",
+    "img": "Geralt.png",
     "gender": "Male",
     "birthplace": "Unknown, raised in Kaer Morhen",
     "birthday": "Unknown",
@@ -273,10 +237,6 @@
     "height": "Unknown",
     "weight": "Unknown",
     "bloodtype": "Unknown",
-
-    "relations": 
-    "Lover: Yennefer
-    Adopted Daughter: Ciri",
 
     "weapontype": "Long Swords",
     "weaponname": "Witcher's Steel Sword and Silver Sword",
@@ -294,7 +254,7 @@
     "name": "Siegfried Schtauffen",
     "title": "A Soul in Purgatory",
     "quote": "I will not surrender to this nightmare!",
-    "img": "",
+    "img": "Siegfried.png",
     "gender": "Male",
     "birthplace": "Ober-Getzenberg, Holy Roman Empire (present-day Germany)",
     "birthday": "February 6th",
@@ -302,10 +262,6 @@
     "height": "5'8 (172cm)",
     "weight": "154lbs (70kg)",
     "bloodtype": "A",
-
-    "relations": 
-    "Mother: Margaret Schtauffen
-    Father: Frederick Schtauffen (murdered by Siegfried)",
 
     "weapontype": "Two Handed Sword (Zweihänder)",
     "weaponname": "Requiem",
@@ -323,7 +279,7 @@
     "name": "Taki",
     "title": "Fu-ma's Shadow",
     "quote": "You'll be lost to history.",
-    "img": "",
+    "img": "Taki.png",
     "gender": "Female",
     "birthplace": "Fū-ma no Sato, Japan",
     "birthday": "Unknown",
@@ -331,9 +287,6 @@
     "height": "5'7 (170cm)",
     "weight": "117lbs (53kg)",
     "bloodtype": "A",
-
-    "relations": 
-    "Master: Toki",
 
     "weapontype": "Dual Kodachi",
     "weaponname": "Rekki-Maru and Mekki-Maru",
@@ -352,7 +305,7 @@
     "name": "Yoshimitsu",
     "title": "The Original Mechanical Ninja",
     "quote": "Shikisoku Zeku!",
-    "img": "",
+    "img": "Yoshimitsu.png",
     "gender": "Male",
     "birthplace": "None",
     "birthday": "Unknown",
@@ -360,8 +313,6 @@
     "height": "5'7 (170cm)",
     "weight": "125lbs (57kg)",
     "bloodtype": "Unknown",
-
-    "relations": "All clan members were massacred.",
 
     "weapontype": "Double Katana",
     "weaponname": "Manji Sword and Fu-Ma Blade",
@@ -380,7 +331,7 @@
     "name": "Makishi (Maxi)",
     "title": "Dandy of the Seas",
     "quote": "I won't lose 'till I have my revenge.",
-    "img": "",
+    "img": "Maxi.png",
     "gender": "Male",
     "birthplace": "Shuri, Ryūkyū Kingdom (present-day Okinawa, Japan)",
     "birthday": "May 1st",
@@ -388,11 +339,6 @@
     "height": "5'8 (174cm)",
     "weight": "167lbs (76kg)",
     "bloodtype": "O",
-
-    "relations": 
-    "Parents: Deceased
-    Sworn Brother: Kyam (Deceased)
-    Traveling Companions: Xianghua and Kilik",
 
     "weapontype": "Nunchaku",
     "weaponname": "Fatibal",
@@ -411,7 +357,7 @@
     "name": "Talim",
     "title": "The Last Priestess of the Winds",
     "quote": "I dedicate this to the wind!",
-    "img": "",
+    "img": "Talim.png",
     "gender": "Female",
     "birthplace": "Southeast Asia, Settlements of the Wind (present-day Phillippines)",
     "birthday": "June 15",
@@ -419,12 +365,6 @@
     "height": "4'8 (144cm)",
     "weight": "86lbs (39kg)",
     "bloodtype": "Unknown",
-
-    "relations": 
-    "Father: Sanput
-    Mother: Lidi
-    Grandmother and Village Elder: Kalana
-    Cousin: Plata",
 
     "weapontype": "Dual Tonfa",
     "weaponname": "Syi Salika and Loka Luha",
@@ -443,7 +383,7 @@
     "name": "Voldo",
     "title": "Hell Guardian",
     "quote": "Koh!",
-    "img": "",
+    "img": "Voldo.png",
     "gender": "Male",
     "birthplace": "Palermo, Kingdom of Naples (present-day Italy)",
     "birthday": "August 25th",
@@ -451,9 +391,6 @@
     "height": "6'0 (183cm)",
     "weight": "174lbs (79kg)",
     "bloodtype": "A",
-
-    "relations": 
-    "Master: Vercci",
 
     "weapontype": "Dual Jamadhar Katars",
     "weaponname": "Manas and Ayus",
@@ -472,7 +409,7 @@
     "name": "Astaroth",
     "title": "The Demonic Guard/Sinister Sable",
     "quote": "You insect! Know your place!",
-    "img": "",
+    "img": "Astaroth.png",
     "gender": "Male",
     "birthplace": "Palgaea Temple, Safavid Empire (present-day Iran)",
     "birthday": "September 3rd",
@@ -480,9 +417,6 @@
     "height": "7'2 (220cm)",
     "weight": "403lbs (183kg)",
     "bloodtype": "None",
-
-    "relations": 
-    "Master: Ares",
 
     "weapontype": "Giant Axe",
     "weaponname": "Kulutues",
@@ -501,7 +435,7 @@
     "name": "Seong Mi-na",
     "title": "Daughter of the Bladed Rod",
     "quote": "I have no plans to lose!",
-    "img": "",
+    "img": "Seong-Mi-na.png",
     "gender": "Female",
     "birthplace": "Jirisan, Korea (present-day South Korea)",
     "birthday": "November 3rd",
@@ -509,12 +443,6 @@
     "height": "5'3 (162cm)",
     "weight": "105lbs (48kg)",
     "bloodtype": "A",
-
-    "relations": 
-    "Father: Han-myeong
-    Mother: Deceased
-    Younger Brother: Deceased
-    Childhood friend: Hwang Seong-gyeong",
 
     "weapontype": "Naginata",
     "weaponname": "Scarlet Thunder",
@@ -533,7 +461,7 @@
     "name": "Tira",
     "title": "Bird of Death",
     "quote": "You look like you wanna die!",
-    "img": "",
+    "img": "Tira.png",
     "gender": "Female",
     "birthplace": "Unknown",
     "birthday": "Unknown",
@@ -541,9 +469,6 @@
     "height": "5'2 (159cm)",
     "weight": "105lbs (48kg)",
     "bloodtype": "AB",
-
-    "relations": 
-    "Foster Parents: (Murdered by Tira)",
 
     "weapontype": "Ring Blade",
     "weaponname": "Eiserne Drossel",
@@ -562,7 +487,7 @@
     "name": "Cervantes de León",
     "title": "The Shell of a Proud Man",
     "quote": "Fear the name of the dread captain Cervantes!",
-    "img": "",
+    "img": "Cervantes.png",
     "gender": "Male",
     "birthplace": "Valencia, Spanish Empire (present-day Spain)",
     "birthday": "January 1st",
@@ -570,9 +495,6 @@
     "height": "6'0 (182cm)",
     "weight": "196lbs (89kg)",
     "bloodtype": "None",
-
-    "relations": 
-    "Daughter: Ivy",
 
     "weapontype": "Longsword and Pistol Sword",
     "weaponname": "Acheron and Nirvana",
@@ -591,7 +513,7 @@
     "name": "Raphael Sorel",
     "title": "Prelude to Madness",
     "quote": "Do not delude yourself, thou wretched fool!",
-    "img": "",
+    "img": "Raphael.png",
     "gender": "Male",
     "birthplace": "Rouen, French Empire (present-day France)",
     "birthday": "November 27th",
@@ -599,9 +521,6 @@
     "height": "5'10 (178cm)",
     "weight": "159lbs (72kg)",
     "bloodtype": "A",
-
-    "relations": 
-    "Foster Daughter: Amy",
 
     "weapontype": "Rapier",
     "weaponname": "Flambert",
@@ -620,7 +539,7 @@
     "name": "YoRHa No.2 Type B (2B, Guest Character)",
     "title": "Glory to Mankind",
     "quote": "We will continue to fight!",
-    "img": "",
+    "img": "2B.png",
     "gender": "Female Model",
     "birthplace": "The Bunker",
     "birthday": "January 7th, 11942",
@@ -628,9 +547,6 @@
     "height": "5'6 (168cm)",
     "weight": "326lbs (148kg)",
     "bloodtype": "None",
-
-    "relations": 
-    "Support Unit: Pod 042",
 
     "weapontype": "Small Sword and Large Sword",
     "weaponname": "Virtuous Treaty and Virtuous Contract",
@@ -648,7 +564,7 @@
     "name": "Amy Sorel",
     "title": "Winter Rose",
     "quote": "Hope only brings disappointment.",
-    "img": "",
+    "img": "Amy.png",
     "gender": "Female",
     "birthplace": "Rouen, French Empire (present-day France)",
     "birthday": "Unknown (Met Raphael on October 22nd)",
@@ -656,9 +572,6 @@
     "height": "4'5 (140cm)",
     "weight": "70lbs (36kg)",
     "bloodtype": "Unknown",
-
-    "relations": 
-    "Foster Father: Raphael",
 
     "weapontype": "Rapier",
     "weaponname": "Albion",
@@ -676,7 +589,7 @@
     "name": "Cassandra Alexandra",
     "title": "Warring Maiden",
     "quote": "I'll show you the price of integrity!",
-    "img": "",
+    "img": "Cassandra.png",
     "gender": "Female",
     "birthplace": "Athens, Ottoman Empire (present-day Greece)",
     "birthday": "July 20th",
@@ -684,13 +597,6 @@
     "height": "5'5 (165cm)",
     "weight": "Claims to have lost weight recently",
     "bloodtype": "B",
-
-    "relations": 
-    "Father: Achelous Alexander
-    Mother: Nike Alexandra
-    Elder Sister: Sophitia Alexandra
-    Younger Brother: Lucius Alexander
-    Brother-in-Law: Rothion",
 
     "weapontype": "Short Sword and Small Shield",
     "weaponname": "Omega Sword and Owl Shield",
@@ -708,7 +614,7 @@
     "name": "Hildegard von Krone (Hilde)",
     "title": "Defender of the Kingdom",
     "quote": "I march to battle. Clear my path!",
-    "img": "",
+    "img": "Hilde.png",
     "gender": "Female",
     "birthplace": "Stolzstadt, Wolfkrone Kingdom",
     "birthday": "August 13th",
@@ -716,12 +622,6 @@
     "height": "5'1 (158cm)",
     "weight": "110lbs (50kg)",
     "bloodtype": "AB",
-
-    "relations": 
-    "Father: King George von Krone
-    Mother: Dietrinde (Deceased)
-    Elder Brother: Alfred (Deceased)
-    Fiance: Wilhelm",
 
     "weapontype": "Short Sword and Spear",
     "weaponname": "Glänzende Nova and Frischer Himmel",
@@ -739,7 +639,7 @@
     "name": "Haohmaru (Guest Character)",
     "title": "Ronin Vagabond",
     "quote": "I'll show you true swordsmanship!",
-    "img": "",
+    "img": "Haohmaru.png",
     "gender": "Male",
     "birthplace": "Jōkamachi, Musashi Province, Japan",
     "birthday": "September 5th, 1763",
@@ -747,9 +647,6 @@
     "height": "5'7 (173cm)",
     "weight": "141lbs (64kg)",
     "bloodtype": "A",
-
-    "relations": 
-    "Lover: Oshizu",
 
     "weapontype": "Katana and Sake Jug",
     "weaponname": "Fugudoku",
@@ -767,7 +664,7 @@
     "name": "Setsuka",
     "title": "Drifting Snow Blossom",
     "quote": "You reap what you sow, and your seeds were weak.",
-    "img": "",
+    "img": "Setsuka.png",
     "gender": "Female",
     "birthplace": "Offshore of Japan",
     "birthday": "Unknown",
@@ -775,9 +672,6 @@
     "height": "5'5 (167cm)",
     "weight": "112lbs (51kg)",
     "bloodtype": "A",
-
-    "relations": 
-    "Master/Adopted Father: Shugen Kokonoe",
 
     "weapontype": "Iaitō hidden in an oilpaper parasol",
     "weaponname": "Ugetsu Kageuchi",
@@ -795,7 +689,7 @@
     "name": "Hwang Seong-gyeong",
     "title": "Secret Royal Blademaster",
     "quote": "I shall vanquish the evils of the ages!",
-    "img": "",
+    "img": "Hwang.png",
     "gender": "Male",
     "birthplace": "Jirisan, Joseon Dynasty Korea (present-day South Korea)",
     "birthday": "August 8th",
@@ -803,11 +697,6 @@
     "height": "5'9 (176cm)",
     "weight": "174lbs(79kg)",
     "bloodtype": "AB",
-
-    "relations": 
-    "Master: Han-myeong
-    Parents: (Deceased)
-    Childhood Friend: Seong Mi-na",
 
     "weapontype": "Podao",
     "weaponname": "Dark Thunder",
