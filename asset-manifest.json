@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scvi_wiki_react/static/css/main.63bb8f46.chunk.css",
-    "main.js": "/scvi_wiki_react/static/js/main.0aa80b74.chunk.js",
-    "main.js.map": "/scvi_wiki_react/static/js/main.0aa80b74.chunk.js.map",
+    "main.js": "/scvi_wiki_react/static/js/main.55c68ff2.chunk.js",
+    "main.js.map": "/scvi_wiki_react/static/js/main.55c68ff2.chunk.js.map",
     "runtime-main.js": "/scvi_wiki_react/static/js/runtime-main.fcbaf6b0.js",
     "runtime-main.js.map": "/scvi_wiki_react/static/js/runtime-main.fcbaf6b0.js.map",
     "static/js/2.d6e4f126.chunk.js": "/scvi_wiki_react/static/js/2.d6e4f126.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fcbaf6b0.js",
     "static/js/2.d6e4f126.chunk.js",
     "static/css/main.63bb8f46.chunk.css",
-    "static/js/main.0aa80b74.chunk.js"
+    "static/js/main.55c68ff2.chunk.js"
   ]
 }
