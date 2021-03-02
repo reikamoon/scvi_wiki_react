@@ -22,7 +22,7 @@ function CastDetails(props) {
 
 
       <div className="Portrait">
-        <img src={`${process.env.PUBLIC_URL}images/${portrait}`} width="392" height="696" alt="Image" />
+        <img src={`${process.env.PUBLIC_URL}/Images/${portrait}`} width="392" height="696" alt="Image" />
         </div>
 
         <div className="Name">

@@ -7,7 +7,7 @@ function CharaDetails(props) {
    return (
     <div className="CharaDetails">
     <Link to={`/details/${id}`}>
-    <img src={`${process.env.PUBLIC_URL}images/${img}`} width="350" height="400" alt="Image" />
+    <img src={`${process.env.PUBLIC_URL}/Images/${img}`} width="350" height="400" alt="Cast" />
     </Link> 
       <h1>{name}, {title}</h1>
       <div>"{quote}"</div>
